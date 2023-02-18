@@ -8,6 +8,13 @@
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
   </component>
+  <component name="PyNamespacePackagesService">
+    <option name="namespacePackageFolders">
+      <list>
+        <option value="$MODULE_DIR$/page_objects" />
+      </list>
+    </option>
+  </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="py.test" />
   </component>
